@@ -64,9 +64,7 @@ These results confirm that the frequent itemset mining algorithms successfully c
 ## Me
 
 Simona Wang 
-
 52103A
-
 Msc in Data Science for Economics  
 
 Università degli Studi di Milano
