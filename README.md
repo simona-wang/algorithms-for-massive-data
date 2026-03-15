@@ -6,7 +6,6 @@ The goal of the project is to perform **market-basket analysis** on the IMDb Top
 
 The objective is to discover **frequent collaborations between actors**, i.e., actor pairs that appear together in many movies.
 
----
 
 ## Dataset
 
