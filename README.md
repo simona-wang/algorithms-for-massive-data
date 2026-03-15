@@ -28,17 +28,12 @@ The notebook implements and compares three frequent itemset mining algorithms:
 - Partition-based algorithm designed for distributed environments.
 - Finds candidate pairs locally in partitions and verifies them globally.
 
----
-
 ## Content of the notebook
 
 - Data Loading & Preprocessing 
 - Algorithms implementation
 - A-Priori vs PCY
 - Scalability experiments on increasing dataset size
-
-
----
 
 ## Open the Notebook in Google Colab
 
