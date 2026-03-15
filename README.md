@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/market_basket_analysis.ipynb)
+
 # Market Basket Analysis
 
 This repository contains the project developed for the **Algorithms for Massive Data** course.
@@ -35,8 +37,3 @@ The notebook implements and compares three frequent itemset mining algorithms:
 - A-Priori vs PCY
 - Scalability experiments on increasing dataset size
 
-## Open the Notebook in Google Colab
-
-Click below to run the notebook directly in Google Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/market_basket_analysis.ipynb)
