@@ -17,7 +17,6 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 - **market_basket_analysis.ipynb** – notebook containing the implementation and experiments  
 - **report.pdf** – detailed description of the methodology and results
 
----
 
 ## Implemented Algorithms
 
