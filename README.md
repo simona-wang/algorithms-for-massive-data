@@ -1,4 +1,5 @@
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simona-wang/algorithms-for-massive-data/blob/main/linearProject.ipynb)
 
 # Market Basket Analysis
 
