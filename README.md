@@ -1,4 +1,4 @@
-# Market Basket Analysis – IMDb Dataset
+# Market Basket Analysis
 
 This repository contains the project developed for the **Algorithms for Massive Data** course.
 
@@ -7,7 +7,7 @@ The goal of the project is to perform **market-basket analysis** on the IMDb Top
 The objective is to discover **frequent collaborations between actors**, i.e., actor pairs that appear together in many movies.
 
 
-## Dataset
+# Dataset
 
 IMDb Dataset of Top 1000 Movies and TV Shows  
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
