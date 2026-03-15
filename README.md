@@ -15,8 +15,8 @@ IMDb Dataset of Top 1000 Movies and TV Shows
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
 ### Repository structure 
-- **market_basket_analysis.ipynb** – notebook containing the implementation and experiments  
-- **report.pdf** – detailed description of the methodology and results
+- **linearProject.ipynb** – notebook containing the implementation and experiments  
+- **Report.pdf** – detailed description of the methodology and results
 
 
 ## Implemented Algorithms
