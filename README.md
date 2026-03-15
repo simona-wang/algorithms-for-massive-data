@@ -45,7 +45,7 @@ The notebook implements and compares three frequent itemset mining algorithms:
 ## Results 
 The algorithms identify several well-known actor collaborations that frequently appear together in the dataset.
 
-Some of the most frequent pairs discovered include:
+Some of the **most frequent pairs** discovered include:
 
 - Daniel Radcliffe – Emma Watson
 - Daniel Radcliffe – Rupert Grint
@@ -54,15 +54,15 @@ Some of the most frequent pairs discovered include:
 - Harrison Ford – Carrie Fisher
 - Mark Hamill – Harrison Ford
 
-The most frequent triples correspond to well-known casts from popular movie series, for example:
+The most **frequent triples** correspond to well-known casts from popular movie series, for example:
 
-- Harry Potter: Daniel Radcliffe, Emma Watson, Rupert Grint
-- Star Wars: Mark Hamill, Harrison Ford, Carrie Fisher
-- The Lord of the Rings: Elijah Wood, Ian McKellen, Orlando Bloom
+- **Harry Potter**: Daniel Radcliffe, Emma Watson, Rupert Grint
+- **Star Wars**: Mark Hamill, Harrison Ford, Carrie Fisher
+- **The Lord of the Rings**: Elijah Wood, Ian McKellen, Orlando Bloom
 
 These results confirm that the frequent itemset mining algorithms successfully capture strong collaboration patterns among actors.
 
-## Author
+## Me
 
 Simona Wang 
 52103A
