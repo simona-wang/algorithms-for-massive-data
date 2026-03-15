@@ -31,10 +31,6 @@ The notebook implements and compares three frequent itemset mining algorithms:
 - Optimization of Apriori using hash buckets.
 - Reduces the number of candidate pairs through bucket-based pruning.
 
-**SON (Savasere–Omiecinski–Navathe)**
-- Partition-based algorithm designed for distributed environments.
-- Finds candidate pairs locally in partitions and verifies them globally.
-
 ## Content of the notebook
 
 - Data Loading & Preprocessing 
