@@ -7,7 +7,7 @@ This repository contains the project developed for the **Algorithms for Massive 
 
 The goal of the project is to perform **market-basket analysis** on the IMDb Top 1000 Movies dataset by treating each movie as a transaction (basket) and the four actors listed in the fields `Star1`, `Star2`, `Star3`, and `Star4` as items.
 
-The objective is to discover **frequent collaborations between actors**, i.e., actor pairs that appear together in many movies.
+The objective is to discover **frequent collaborations between actors** (actor pairs that appear together in many movies) 
 
 ### Dataset
 
